@@ -9,7 +9,7 @@
 * [Bittrex 🔒](https://github.com/JonathanSchubert/moneymoney-bittrex) von [JonathanSchubert](https://github.com/JonathanSchubert)
 * [BMW Bank](https://github.com/robbi5/moneymoney-bmwbank-ext) von [robbi5](https://github.com/robbi5)
 * [Coinbase 🔒](https://github.com/nicolindemann/coinbase-moneymoney) von [nicolindemann](https://github.com/nicolindemann)
-* [DWS](https://github.com/real-prometheus/moneymoney-extensions) von [real](https://github.com/real)
+* [DWS](https://github.com/real-prometheus/moneymoney-extensions) von [real-prometheus](https://github.com/real-prometheus)
 * [EOS](https://github.com/Jacubeit/EOS-MoneyMoney) von [Jacubeit](https://github.com/Jacubeit)
 * [EOS 🔒](https://github.com/jscurtu/moneymoney-extension-eos) von [jscurtu](https://github.com/jscurtu)
 * [Estateguru](https://github.com/beanieboi/moneymoney-estateguru) von [beanieboi](https://github.com/beanieboi)
