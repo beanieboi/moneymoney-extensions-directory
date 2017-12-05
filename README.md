@@ -41,4 +41,5 @@ Pull Requests für fehlende Erweiterungen werden gern gesehen.
 * [HTML 🔒](https://gist.github.com/0bp/8445592#gistcomment-987501) von [0bp](https://github.com/0bp)
 * [HTML 🔒](https://github.com/SwankyCrones/MoneyMoney-Extensions/) Exportiert Bar Charts von [SwankyCrones](https://github.com/SwankyCrones)
 * [Kategorie-Summen 🔒](https://github.com/phillipoertel/moneymoney-extensions/) von [phillipoertel](https://github.com/phillipoertel)
+* [MonKey Office](https://github.com/timpritlove/moneymonkey) von [timpritlove](https://github.com/timpritlove)
 * [YNAB](https://github.com/krachtstefan/moneymoney2ynab) von [krachtstefan](https://github.com/krachtstefan)
