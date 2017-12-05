@@ -1,5 +1,6 @@
 ## Extensions
 🔒 = offiziell signierte Erweiterung
+
 Pull Requests für fehlende Erweiterungen werden gern gesehen.
 
 ### Bestandsabfrage
