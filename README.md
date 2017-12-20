@@ -22,6 +22,7 @@ Pull Requests für fehlende Erweiterungen werden gern gesehen.
 * [Mintos](https://github.com/beanieboi/moneymoney-mintos) von [beanieboi](https://github.com/beanieboi)
 * [Mintos 🔒](https://github.com/deflomu/moneymoney-mintos-extension) von [deflomu](https://github.com/deflomu)
 * [NEO 🔒](https://github.com/Jacubeit/NEO-MoneyMoney) von [Jacubeit](https://github.com/Jacubeit)
+* [STORJ](https://github.com/silsha/STORJ-MoneyMoney) von [silsha](https://github.com/silsha)
 * [Twino](https://github.com/beanieboi/moneymoney-twino) von [beanieboi](https://github.com/beanieboi)
 * [Union Invest](https://github.com/joafeldmann/moneymoney-union-investmentn) von [joafeldmann](https://github.com/joafeldmann)
 * [Whitebox](https://github.com/mirkowein/moneymoney-whitebox) von [mirkowein](https://github.com/mirkowein)
