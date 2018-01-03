@@ -28,6 +28,7 @@ Pull Requests für fehlende Erweiterungen werden gern gesehen.
 * [Whitebox](https://github.com/mirkowein/moneymoney-whitebox) von [mirkowein](https://github.com/mirkowein)
 
 ### Kontostand- und Umsatzabfrage
+* [BAWAG PSK](https://github.com/frittex/moneymoney-bawagpsk) von [frittex](https://github.com/frittex)
 * [Lloyds Bank UK 🔒](https://github.com/gdelmas/LloydsBank-MoneyMoney) von [gdelmas](https://github.com/gdelmas)
 * [Payback 🔒](https://github.com/gdelmas/LloydsBank-MoneyMoney) von [gdelmas](https://github.com/gdelmas)
 * [PayLife MasterCard RED 🔒](https://github.com/phpwutz/moneymoney-mastercardred-ext) von [phpwutz](https://github.com/phpwutz)
