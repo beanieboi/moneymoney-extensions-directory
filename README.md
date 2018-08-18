@@ -44,4 +44,5 @@ Pull Requests für fehlende Erweiterungen werden gern gesehen.
 * [HTML 🔒](https://github.com/SwankyCrones/MoneyMoney-Extensions/) Exportiert Bar Charts von [SwankyCrones](https://github.com/SwankyCrones)
 * [Kategorie-Summen 🔒](https://github.com/phillipoertel/moneymoney-extensions/) von [phillipoertel](https://github.com/phillipoertel)
 * [MonKey Office](https://github.com/timpritlove/moneymonkey) von [timpritlove](https://github.com/timpritlove)
-* [YNAB](https://github.com/krachtstefan/moneymoney2ynab) von [krachtstefan](https://github.com/krachtstefan)
+* [YNAB OFX](https://github.com/krachtstefan/moneymoney2ynab) von [krachtstefan](https://github.com/krachtstefan)
+* [YNAB CSV](http://github.com/bitboxer/moneymoney-ynab) von [bitboxer](https://github.com/bitboxer)
