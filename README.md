@@ -9,6 +9,7 @@ Pull Requests für fehlende Erweiterungen werden gern gesehen.
 * [Bitfinex 🔒](https://github.com/beanieboi/moneymoney-bitfinex) von [beanieboi](https://github.com/beanieboi)
 * [Bitstamp 🔒](https://github.com/beanieboi/moneymoney-bitstamp) von [beanieboi](https://github.com/beanieboi)
 * [Bittrex 🔒](https://github.com/JonathanSchubert/moneymoney-bittrex) von [JonathanSchubert](https://github.com/JonathanSchubert)
+* [Bondora](https://github.com/SvenEwald/moneymoney-bondora) von [SvenEwald](https://github.com/SvenEwald)
 * [BMW Bank](https://github.com/robbi5/moneymoney-bmwbank-ext) von [robbi5](https://github.com/robbi5)
 * [Coinbase 🔒](https://github.com/nicolindemann/coinbase-moneymoney) von [nicolindemann](https://github.com/nicolindemann)
 * [DWS](https://github.com/real-prometheus/moneymoney-extensions) von [real-prometheus](https://github.com/real-prometheus)
